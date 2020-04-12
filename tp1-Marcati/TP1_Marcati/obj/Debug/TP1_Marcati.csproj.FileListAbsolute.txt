@@ -1,0 +1,6 @@
+C:\Users\Gonzalo Marcati\source\repos\TP1_Marcati\TP1_Marcati\obj\Debug\TP1_Marcati.csprojAssemblyReference.cache
+C:\Users\Gonzalo Marcati\source\repos\TP1_Marcati\TP1_Marcati\obj\Debug\TP1_Marcati.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo Marcati\source\repos\TP1_Marcati\TP1_Marcati\bin\Debug\TP1_Marcati.dll
+C:\Users\Gonzalo Marcati\source\repos\TP1_Marcati\TP1_Marcati\bin\Debug\TP1_Marcati.pdb
+C:\Users\Gonzalo Marcati\source\repos\TP1_Marcati\TP1_Marcati\obj\Debug\TP1_Marcati.dll
+C:\Users\Gonzalo Marcati\source\repos\TP1_Marcati\TP1_Marcati\obj\Debug\TP1_Marcati.pdb
